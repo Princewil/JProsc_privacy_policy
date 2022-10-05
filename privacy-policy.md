@@ -6,7 +6,7 @@ Our privacy policy will help you understand what information we collect at JPros
 JProsc built the JProsc app as a free app. This SERVICE is provided by JProsc at no cost and is intended for use as is.
 
 ### Information Collection and Use  
-The app does not collect any personal information about you and do not use any third party services that may collect information used to identify you. 
+The app do collect some personal information about you provided by Google through your gmail. The information collected is your name and gmail ONLY. This is used to ensure your app is personalized to suit you. This data is securely stored on our database and is not/will not be shared with any third party. 
 
 ### Location Information  
 The app do not use or collect location information transmitted from users' mobile phones.
